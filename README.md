@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LRS-TECH](https://github.com/Liebb/LSR-FRONTEND.git)
 
-- 💬 Ask me about **angular, JavaScript, HTML, Css, tailwind**
+- 💬 Ask me about **Angular, JavaScript, HTML, CSS, Tailwind**
 
 - 📫 How to reach me **liebermenm@gmail.com**
 
