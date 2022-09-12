@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Liebermen or lieb</h1>
+<h1 align="center">Hi 👋, I'm Liebermen</h1>
 <h3 align="center">A passionate frontend developer from Nicaragua</h3>
 
 - 🔭 I’m currently working on [LRS-TECH](https://github.com/Liebb/LSR-FRONTEND.git)
